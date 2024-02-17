@@ -61,7 +61,7 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-  'Hey Sanju,',
+  'Hey Apeksha(Miss Perfect),',
   'I promise to be the constant in your life,',
   'never leaving your side',
   'through the highs and lows,',
